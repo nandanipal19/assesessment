@@ -1,0 +1,51 @@
+a:hover{
+*{
+margin:0px;
+}
+ body{
+      background-color:white;
+     }
+ header{
+     display:flex;
+     justify-content:space-between;
+     align-items:center;
+     background-color:white;
+     padding:10px;
+}
+  #logolink a{
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    font-size:16pt;
+    }
+a:hover{
+  background-color: mediumorchild;
+  border-radius:5px;
+}
+.active{
+  border-bottom:solid deep pink;
+}
+#ab{
+    display:flex;
+
+    justify-content:space-around;
+  }
+  section{
+       display:flex;
+       height:400pt;
+       justify-contentLspace-around;
+       align-items:flex-start;
+       margin:100px;
+      }
+  grad{
+       background-image:linear-gradient(to right, deeppink, purple);
+       background-clip:text;
+       wevkit-text-fill-color:transparent;
+}
+      section h4{
+          font-size:20pt;
+}
+    
+
+    
